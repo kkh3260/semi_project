@@ -1,0 +1,1 @@
+﻿good : 임시데이터, ORACLE SQL Develpoer를 이용해서 import
